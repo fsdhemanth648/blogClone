@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+blogclone/node_modules 
+
+
 # testing
 /coverage
 
